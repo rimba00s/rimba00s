@@ -9,7 +9,7 @@
 
 <div align="center">
     
- 🌱 I’m currently learning **Docker, Google cloud, Laravel**
+ 🌱 I’m currently learning **Docker, Google cloud**
  
  </div>
  
