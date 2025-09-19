@@ -13,7 +13,7 @@
 
 <div align="center">
     
-    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     
 </div>
 <br/>
