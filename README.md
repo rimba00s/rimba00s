@@ -10,8 +10,6 @@
  🌱 I’m currently learning **Docker** and **Google cloud**
  
  </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
